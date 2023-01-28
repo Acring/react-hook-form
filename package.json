@@ -1,5 +1,5 @@
 {
-  "name": "react-hook-form",
+  "name": "pluto-react-hook-form",
   "description": "Performant, flexible and extensible forms library for React Hooks",
   "version": "7.43.0-next.0",
   "main": "dist/index.cjs.js",
@@ -66,7 +66,7 @@
     "url": "https://github.com/react-hook-form/react-hook-form"
   },
   "homepage": "https://www.react-hook-form.com",
-  "author": "<bluebill1049@hotmail.com>",
+  "author": "acring <acring4ever@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@microsoft/api-extractor": "^7.33.7",

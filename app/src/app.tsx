@@ -38,6 +38,7 @@ import { UseFormState } from './useFormState';
 import SetValueAsyncStrictMode from './setValueStrictMode';
 import { DelayError } from './delayError';
 import './style.css';
+import WarningMessage from './warningMessage';
 
 const App: React.FC = () => {
   return (
@@ -112,6 +113,7 @@ const App: React.FC = () => {
           element={<UseWatchUseFieldArrayNested />}
         />
         <Route path="/test" element={<Test />} />
+        <Route path="/warningMessage" element={<WarningMessage />} />
         <Route path="/" element={<Welcome />} />
       </Routes>
     </BrowserRouter>

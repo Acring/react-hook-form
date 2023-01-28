@@ -31,12 +31,12 @@
 
 ### Install
 
-    npm install react-hook-form
+    npm install pluto-react-hook-form
 
 ### Quickstart
 
 ```jsx
-import { useForm } from 'react-hook-form';
+import { useForm } from 'pluto-react-hook-form';
 
 function App() {
   const {

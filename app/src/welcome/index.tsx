@@ -218,6 +218,11 @@ const items: Item[] = [
     description: 'should watch the correct nested field array',
     slugs: ['/watchUseFieldArrayNested'],
   },
+  {
+    title: 'WarningMessage',
+    description: 'Should show warning message, and able to submit',
+    slugs: ['/warningMessage'],
+  },
 ];
 
 const Component: React.FC = () => {
